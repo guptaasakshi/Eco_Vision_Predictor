@@ -1,0 +1,11 @@
+system:index,mean_ndvi,year,.geo
+0,0.3519259988336409,2015.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,0.35195799246796317,2016.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,0.3516422646054526,2017.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,0.34980773764605355,2018.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,0.34629029065297984,2019.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,0.34210095825757186,2020.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,0.33960134293089206,2021.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,0.34423193346722625,2022.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+8,0.3428659115489652,2023.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
+9,0.33138880168564205,2024.0,"{""type"":""MultiPoint"",""coordinates"":[]}"
