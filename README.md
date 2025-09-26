@@ -1,4 +1,4 @@
-# Eco_Vision_Predictorr
+# Eco_Vision_Predictor
 "An LSTM model to forecast deforestation in Rondônia, Brazil using Google Earth Engine data."
 
 ***
@@ -52,8 +52,8 @@ To run this project, you will need the following Python libraries. They can be i
 
 1.  **Clone the Repository:**
     ```bash
-    git clone (https://github.com/guptaasakshi/Eco_Vision_Predictorr.git)
-    cd Eco_Vision_Predictorr
+    git clone (https://github.com/guptaasakshi/Eco_Vision_Predictor.git)
+    cd Eco_Vision_Predictor
     ```
 2.  **Install Dependencies:**
     ```bash
