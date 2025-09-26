@@ -1,0 +1,14 @@
+# requirements.txt content
+
+# Data Handling & Analysis
+pandas
+numpy
+matplotlib
+
+# Deep Learning (LSTM)
+tensorflow
+keras
+
+# Geospatial/Time-Series (According to my project)
+earthengine  # For the Google Earth Engine access 
+scikit-learn     # If you using for the data preprocessing
